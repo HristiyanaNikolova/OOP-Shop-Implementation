@@ -1,1 +1,1 @@
-# OOP-Shop-Implementation-in-C-
+# OOP-Shop-Implementation-in-C++
